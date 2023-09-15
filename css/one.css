@@ -1,0 +1,91 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+/* a:hover{
+	color: #B40431;
+} */
+
+.huanye{
+	color: palevioletred;
+	text-decoration: none;
+	line-height: 700px;
+	display: block;
+	text-align: center;	
+	/* border: 1px solid red; */
+}
+#page1{
+	width: 80%;
+	height: 700px;
+	background-color: lightblue;
+	margin: 40px auto;
+}
+
+#page2{
+	width: 80%;
+	height: 700px;
+	margin: 40px auto;	
+	/* border: 1px solid red; */
+}
+.head2{
+	/* width: 100%; */
+	height: 15%;
+	background-color: royalblue;
+}
+.content2{
+	height: 75%;
+	background-color: lightblue;
+}
+.foot2{
+	height:10%;
+	background-color: royalblue;
+}
+.huanye2{
+	color: palevioletred;
+	text-decoration: none;
+	line-height: 525px;
+	text-align: center;	
+	display: block;	
+}
+
+.left2{
+	width: 30%;
+	height: 100%;
+	background-color: mediumturquoise;
+	float: left;
+}
+.right2{
+	width: 70%;
+	height: 100%;
+	background-color: lightblue;
+	float: left;
+}
+
+.head4{
+	width: 100%;
+	height: 10%;
+	background-color: blue;
+}
+.content4{
+	height: 90%;
+	background-color: lightblue;
+	border: 1px solid red;
+}
+.you{
+	width: 30%;
+	height: 100%;
+	background-color:mediumturquoise ;
+	float: right;
+}
+.left4{
+	width: 30%;
+	height: 100%;
+	background-color: mediumturquoise;
+	float: left;
+}
+.right4{
+	width: 40%;
+	height: 100%;
+	background-color: lightblue;
+	float: left;
+}
